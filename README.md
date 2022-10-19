@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mvapontes
 - 👀 I’m interested in 🍄
 - 🧑‍💻 I’m currently learning genome assembly and cvn analysis
-- 🕵️‍♀️ I’m always learning python and R
+- 🕵️‍♀️ I’m always learning about life, python and R
 
 <!---
 mvapontes/mvapontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
