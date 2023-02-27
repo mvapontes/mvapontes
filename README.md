@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvapontes
 - 👀 I’m interested in 🍄
-- 🧑‍💻 I’m currently learning genome assembly and cvn analysis
+- 🧑‍💻 I’m currently learning about genome analysis
 - 🕵️‍♀️ I’m always learning about life, python and R
 
 <!---
