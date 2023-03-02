@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvapontes
 - 👀 I’m interested in 🍄
-- 🧑‍💻 I’m currently learning about genomic analysis
+- 🧑‍💻 I’m currently learning about fungal genomes
 - 🕵️‍♀️ I’m always learning about life, python and R
 
 <!---
